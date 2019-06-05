@@ -1,4 +1,4 @@
-package com.deyu.myscala.vardemo
+package com.deyu.myscala.chapter00.vardemo
 
 object VarValDemo02 {
 

@@ -1,4 +1,4 @@
-package com.deyu.myscala.plusdemo
+package com.deyu.myscala.chapter00.plusdemo
 
 object PlusDemo01 {
   def main(args: Array[String]): Unit = {

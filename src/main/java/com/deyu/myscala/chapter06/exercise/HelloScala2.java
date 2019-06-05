@@ -1,4 +1,4 @@
-package com.deyu.myscala;
+package com.deyu.myscala.chapter06.exercise;
 
 //类
 public final class HelloScala2

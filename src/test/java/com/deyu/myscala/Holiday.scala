@@ -1,5 +1,6 @@
 package com.deyu.myscala
 
+
 object Holiday {
 
   def main(args: Array[String]): Unit = {
@@ -14,5 +15,8 @@ object Holiday {
 
     println((1000.0 / 3).formatted("%.2f"))
   }
+
+
+
 
 }

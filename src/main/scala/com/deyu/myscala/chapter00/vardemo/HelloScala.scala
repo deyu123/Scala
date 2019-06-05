@@ -1,4 +1,4 @@
-package com.deyu.myscala
+package com.deyu.myscala.chapter00.vardemo
 
 object HelloScala {
   def main(args: Array[String]): Unit = {
