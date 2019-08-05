@@ -29,16 +29,16 @@ object MatchObj {
     println(obj)
 
     // 后面的都没法走到
-    val result = obj match {
-      case a : Int => a
-      case _ : BigInt => Int.MaxValue
-      case b : Map[String, Int] => "一个字符串-数字的Map集合"
-      case c : Map[Int, String] => "一个数字-字符串的Map集合"
-      case d : Array[String] => "一个字符串数组"
-      case e : Array[Int] => "一个数字数组"
-      case _ => "啥也不是"
-    }
-    println(result)
+//    val result = obj match {
+//      case a : Int => a
+//      case _ : BigInt => Int.MaxValue
+//      case b : Map[String, Int] => "一个字符串-数字的Map集合"
+//      case c : Map[Int, String] => "一个数字-字符串的Map集合"
+//      case d : Array[String] => "一个字符串数组"
+//      case e : Array[Int] => "一个数字数组"
+//      case _ => "啥也不是"
+//    }
+//    println(result)
 
     for (arr <- Array(Array(0), Array(1, 0), Array(0, 1, 0),
       Array(1, 1, 0), Array(1, 1, 0, 1))) {

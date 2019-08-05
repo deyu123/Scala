@@ -19,7 +19,7 @@ object demo01 {
       1
     } else {
       println("bb")
-      0
+//      0
       10
     }
 
